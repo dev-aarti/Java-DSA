@@ -1,4 +1,4 @@
-package ArraysQues;
+package ArraysAndArrayList;
 
 public class Sort0s1s2sM2 {
 //    (Dutch Flag Algorithm)- one pass

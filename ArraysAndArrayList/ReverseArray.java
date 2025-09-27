@@ -1,4 +1,4 @@
-package ArraysQues;
+package ArraysAndArrayList;
 //Write a program to reverse the array without using any extra array.(Two pointer)
 public class ReverseArray {
     public static void main(String[] args) {

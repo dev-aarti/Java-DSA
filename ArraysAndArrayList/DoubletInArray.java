@@ -1,4 +1,4 @@
-package ArraysQues;
+package ArraysAndArrayList;
 //Find the doublet in the Array whose sum is equal to the given value x. (Two sum).
 public class DoubletInArray {
     public static void main(String[] args) {

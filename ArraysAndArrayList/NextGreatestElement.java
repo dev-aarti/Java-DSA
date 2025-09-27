@@ -1,4 +1,4 @@
-package ArraysQues;
+package ArraysAndArrayList;
 
 public class NextGreatestElement {
     public static void main(String[] args) {

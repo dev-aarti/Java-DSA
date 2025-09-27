@@ -1,4 +1,4 @@
-package ArraysQues;
+package ArraysAndArrayList;
 //Find the maximum value out of all the elements in the array.
 import java.util.*;
 public class MaximumEle {

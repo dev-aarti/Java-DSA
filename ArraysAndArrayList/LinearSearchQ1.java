@@ -1,4 +1,4 @@
-package ArraysQues;
+package ArraysAndArrayList;
 //Find the element 'x' in the array. Take array and x as input. 0
 import java.util.*;
 public class LinearSearchQ1 {

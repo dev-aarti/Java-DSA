@@ -1,4 +1,4 @@
-package ArraysQues;
+package ArraysAndArrayList;
 
 public class SortOf0sn1sM1 {
     public static void main(String[] args) {

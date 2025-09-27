@@ -1,4 +1,4 @@
-package ArraysQues;
+package ArraysAndArrayList;
 
 class Sample {
     private int i;

@@ -1,4 +1,4 @@
-package ArraysQues;
+package ArraysAndArrayList;
 
 public class Sort0s1s2sM1 {
     public static void main(String[] args) {
