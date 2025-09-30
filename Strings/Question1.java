@@ -1,4 +1,4 @@
-package StringsAndStringBuilder;
+package Strings;
 //Input a string and Update all the even positions in the string to character 'a'. Consider 0-based indexing.
 public class Question1 {
     public static void main(String[] args) {
