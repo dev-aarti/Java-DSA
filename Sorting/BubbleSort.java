@@ -6,6 +6,10 @@ public class BubbleSort {
         for(int ele: arr){
             System.out.print(ele+" ");
         }
+
+//        s.c = O(n) - Given array of 'n' size
+//        Auxillary Space -o(1)
+//        Time Complexity - O(n^2-2n+1) ~= O(n^2)
         System.out.println();
         int n = arr.length;
         for(int i=0; i<n; i++){
